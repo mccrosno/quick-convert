@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 boto3 = "*"
 pypandoc = "*"
+mypy-boto3-s3 = "*"
+python-dotenv = "*"
+pathlib = "*"
+pandoc = "*"
 
 [dev-packages]
 
